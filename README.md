@@ -1,5 +1,7 @@
 #TechStack used- HTML,CSS,JAVASCRIPT,REACTJS ,styled-components,@mui/icons-material,@mui/material.
 
+Live link:-https://slackclone12.herokuapp.com/
+
 #ScreenShots->
 
 ![image](https://user-images.githubusercontent.com/108413276/186385052-7c1e3783-a9fa-45df-8275-d0983ff62729.png)
